@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Петр Полунин](https://up.htmlacademy.ru/nodejs-2/6/user/201238).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Осипук](https://htmlacademy.ru/profile/id616431).
 
 ---
 
